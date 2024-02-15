@@ -1,7 +1,7 @@
 ## Hi I'm Sergio 👋
 
 
-- 💻 I’m a Software Developer.
+- 💻 I’m a Software Developer || Data analyst
 -  📍 I'm presently residing in Colombia.
 -  🛡️ I'm interested in Software Development & InfoSec.
 - 🤖 I enjoy working on and exploring projects involving Espressif and Arduino chips and modules, such as the ESP32 and ESP8266.

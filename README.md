@@ -5,7 +5,7 @@
 -  📍 I'm presently residing in Colombia.
 -  🛡️ I'm interested in Software Development & InfoSec.
 - 🤖 I enjoy working on and exploring projects involving Espressif and Arduino chips and modules, such as the ESP32 and ESP8266.
-- 📫 How to reach me: sergioguillenfonseca@gmail.com
+- 📫  sergioguillenfonseca@gmail.com
 
 
 

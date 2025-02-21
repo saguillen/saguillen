@@ -1,10 +1,17 @@
+
+<img src="https://github.com/user-attachments/assets/ca2d72bf-2287-479a-b413-c9bec1a8d3f9" alt="Smile" width="300">
+
 ## Hi I'm Sergio 👋
 
 
-- 💻 I’m a Software Developer || Data analyst
--  📍 I'm presently residing in Colombia.
--  🛡️ I'm interested in Software Development & InfoSec.
-- 🤖 I enjoy working on and exploring projects involving Espressif and Arduino chips and modules, such as the ESP32 and ESP8266.
+- ✅ SW & Data Engineer | Cybersecurity (Yep, I've worked in all three! 👾)
+- 🔹 I bring a multifaceted background in cybersecurity, data analysis, and software engineering. Having worked across these fields, I bridge the gap between data-driven decision-making and cutting-edge software and security practices. Whether it's making and securing data pipelines, analyzing threats, or reinforcing cloud security, I thrive at the intersection of technology, software and security.
+- 🔐 Always learning. Targeting multiple certifications for my work.
+- Meanwhile, apart from just going to work (and when im not busy) I like to build cool projects
+  🔹 Created my own Discord bot to find an empty classroom to study B)
+  🔹 Trained a computer vision model on my cats 🐱
+  🔹 My university thesis? Data poisoning network traffic to attack ML models
+  🔹 Projects with Espressif & Arduino chips/modules 🔹 EAFC 24 players stats prediction in the next game (Just for fun) 
 - 📫  sergioguillenfonseca@gmail.com
 
 
